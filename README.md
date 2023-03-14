@@ -5,7 +5,7 @@ While I couldn't realize my original vision of creating an aimbot that could adj
 
 What I learned from this experience is the importance of being adaptable and creative when facing obstacles in research or development projects. Though it didn't turn out exactly as I had planned, I gained valuable skills and knowledge that will undoubtedly benefit me in future projects. Overall, I'm grateful for the opportunity to work on this project, and I look forward to future explorations and advancements.
 
-Dependencies:
+# Dependencies:
 ```
 Python
 OpenCV
@@ -16,7 +16,12 @@ Survo Motor
 ```
 
 
- Authors:
+# Authors:
  ```
 Khondoker Mirazul Mumenin
+```
+
+# YT link:
+ ```
+https://youtu.be/84LzLczRXho
 ```
